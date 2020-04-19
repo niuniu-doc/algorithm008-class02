@@ -11,6 +11,14 @@
          可以两日一题(但要保证真的理解)
 ```
 
+#### 补充作业
+```
+1. 使用 addFirst / addLast 改写queue代码
+   ModifiedDeque.java
+2. queue源码分析: queue.md
+   priorityQueue源码分析: priorityQueue.md
+```
+
 #### 代码review, 题目: 283. 移动零
 > 由于时间不足、本周的代码review就转看同一个题目了, 时间充足的话会多看一些~~
 >
