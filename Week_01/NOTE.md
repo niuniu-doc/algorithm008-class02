@@ -51,7 +51,7 @@ github地址: https://github.com/Uado1104/algorithm008-class01/blob/master/Week_
 
 这位同学用的是 两遍循环法, 但是给出了边界条件考虑
 if (len < 2) return; 
-这点儿值得学习~~
+很值得学习~~
 
 另外, 如果边界判断使用 next 的定义放在边界判断后边是否会更好一些 ?
 如果不需要处理的话, 就不用定义变量了. (虽然这点儿可能意义不大...) 
@@ -67,7 +67,7 @@ github地址: https://github.com/Edward1C/algorithm008-class02/blob/master/Week_
 这样可以少一些交换操作, 逻辑上来说, 时间复杂度会降低.
 (毕竟、一个交换操作, 至少要有好几个CPU周期~~~~)
 
-缺陷也是没有边界判断, 如果数组只有一个元素、或者是空数组, 其实可以直接返回.
+稍有不足的地方也是没有边界判断, 如果数组只有一个元素、或者是空数组, 其实可以直接返回.
 
 ```
 
@@ -78,7 +78,7 @@ github地址: https://github.com/lkhavetwocat/algorithm008-class02/blob/master/W
 
 这位同学是php写的代码
 优点是: 注释清晰, 有空数组判断、及边界判断
-可以优化的地方:
+稍有不足的地方:
 1. i==j 时可以不用交换
 2. 数组长度的判断(count($num))可以放到循环外, 毕竟count函数是可能有一定的消耗
 (Java的ArrayList维护了size变量、不记得php是不是维护这个结构了...)
@@ -90,7 +90,7 @@ github地址: https://github.com/lkhavetwocat/algorithm008-class02/blob/master/W
 github地址: https://github.com/wyc192273/algorithm008-class02/tree/master/Week_01
 
 优点: 代码 和 学习总结都写的特别认真、值得学习. 真是的每日刷题..., 且刷了n道题、佩服佩服~~
-建议: 题目名称可以写到文件名上、这样可能会更好 ?
+小建议: 题目名称可以写到文件名上、这样可能会更好 ?
 ```
 
 **另外表扬一位同学: G20200343050362**
