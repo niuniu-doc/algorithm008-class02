@@ -42,9 +42,7 @@ public class MostWaters {
                 /** ======= Myself begin =======
                  //                if (height[i] > height[j]) {
                  //                    maxArea = Math.max(maxArea, Math.min(height[i], height[--j]) * (j-i));
-                 //                    iterator++;
                  //                } else {
-                 //                    iterator++;
                  //                    maxArea = Math.max(maxArea, Math.min(height[++i], height[j]) * (j-i));
                  //                }
                  //                 return maxArea;
