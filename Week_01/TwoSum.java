@@ -20,7 +20,9 @@ import java.util.Map;
  */
 public class TwoSum {
     public static void main(String[] args) throws Exception{
-        Solution solution = new TwoSums().new Solution();
+        char[] s = "abcd".toCharArray();
+        System.out.println(s.length);
+        Solution solution = new TwoSum().new Solution();
         int[] nums = new int[] {1,2,3,3,2,5,8};
         int target = 9;
 
