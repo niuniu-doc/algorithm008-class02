@@ -23,3 +23,46 @@
 HashMap 源代码分析: HashMap.md
 HashSet 源代码分析: HashSet.md
 ```
+
+
+#### 代码review
+##### 001
+```
+学号: G20200343050344
+github: https://github.com/chenchuxin/algorithm008-class02/tree/master/Week_02
+
+作业写的很不错、题目的数量比较多、代码质量也很高、每个都给出了多种解法, 值得赞赏~~~
+```
+
+##### 002
+```
+学号: G20200343050186
+github: https://github.com/mengbaodexiaocao/algorithm008-class02/tree/master/Week_02
+
+每个题目都做的极认真、写出来多种题解, 并且给出了较清晰的注释, 特别认真、值得学习~~~
+```
+
+##### 003
+```
+学号: G20200343050074
+github: https://github.com/dokcer-oo/algorithm008-class02/tree/master/Week_02/leetcode
+
+跟我一样题目写的有点儿少呢~, 一起加油吧~~, 争取能有多些时间多写一些习题^.^
+```
+
+
+##### 004
+```
+学号: G20200343050074
+github: https://github.com/WhatAKitty/algorithm008-class02/tree/master/Week_02
+
+注释写出了自己的完整思路、是按照老师教的4步曲来的、这点值得学习、题解也写的很不错~~
+```
+
+##### 005
+```
+学号: G20200343050246
+github: https://github.com/CongYiMing/algorithm008-class02/tree/master/Week_02
+
+代码写的比较精炼, 如果能拆分成多个文件可能更方便阅读呢, 小小建议~~~
+```
